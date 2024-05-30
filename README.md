@@ -82,9 +82,12 @@ To learn more about React Native, take a look at the following resources:
 
 Apk download link([DownloadLink](https://drive.google.com/file/d/1XH4LEskRvsk_cYrYUiIkAPyhP2l3LZ4n/view))
 
-
 ## Screenshots
 
-
-
 <img src="/src/images/Home.jpg" alt="Screenshot 2" width="300"/>
+<img src="/src/images/Login.jpg" alt="Screenshot 2" width="300"/>
+<img src="/src/images/signup.jpg" alt="Screenshot 2" width="300"/>
+<img src="/src/images/Todolist.jpg" alt="Screenshot 2" width="300"/>
+<img src="/src/images/addTodo.jpg" alt="Screenshot 2" width="300"/>
+<img src="/src/images/todolist2.jpg" alt="Screenshot 2" width="300"/>
+<img src="/src/images/EditTodo.jpg" alt="Screenshot 2" width="300"/>
