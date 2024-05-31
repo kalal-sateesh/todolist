@@ -87,7 +87,7 @@ Apk download link([DownloadLink](https://drive.google.com/file/d/1Zgj1_6-1lGyFY9
 <img src="/src/images/Home.jpg" alt="Screenshot 1" width="200"/>
 <img src="/src/images/Login.jpg" alt="Screenshot 2" width="200"/>
 <img src="/src/images/signup.jpg" alt="Screenshot 3" width="200"/>
-<img src="/src/images/TodoList.jpg" alt="Screenshot 4" width="200"/>
+<img src="/src/images/todoList.jpg" alt="Screenshot 4" width="200"/>
 <img src="/src/images/addTodo.jpg" alt="Screenshot 5" width="200"/>
-<img src="/src/images/TodoList2.jpg" alt="Screenshot 6" width="200"/>
+<img src="/src/images/todoList2.jpg" alt="Screenshot 6" width="200"/>
 <img src="/src/images/EditTodo.jpg" alt="Screenshot 7" width="200"/>
