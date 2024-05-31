@@ -122,7 +122,7 @@ const TodoList = () => {
             style={style.backarrowIcon}
           />
         </TouchableOpacity>
-        <Text style={style.loginText}>AddTodo</Text>
+        <Text style={style.loginText}>TodoList</Text>
       </View>
       <View style={style.headerContainer}>
         <Text style={style.userName}>Hello {name}</Text>

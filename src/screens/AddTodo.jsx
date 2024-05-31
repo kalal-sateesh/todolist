@@ -80,7 +80,7 @@ const AddTodo = () => {
             style={style.backarrowIcon}
           />
         </TouchableOpacity>
-        <Text style={style.loginText}>TodoList</Text>
+        <Text style={style.loginText}>AddTodo</Text>
       </View>
       <View style={style.container}>
         <TextInput

@@ -94,7 +94,7 @@ const EditTodo = () => {
             style={style.backarrowIcon}
           />
         </TouchableOpacity>
-        <Text style={style.loginText}>TodoList</Text>
+        <Text style={style.loginText}>EditTodo</Text>
       </View>
       <View style={style.container}>
         <TextInput

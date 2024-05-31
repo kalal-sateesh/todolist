@@ -80,14 +80,14 @@ To learn more about React Native, take a look at the following resources:
 
 # Download link
 
-Apk download link([DownloadLink](https://drive.google.com/file/d/1XH4LEskRvsk_cYrYUiIkAPyhP2l3LZ4n/view))
+Apk download link([DownloadLink](https://drive.google.com/file/d/1Zgj1_6-1lGyFY9ggyrr6HL1DX3rFCTEC/view))
 
 ## Screenshots
 
-<img src="/src/images/Home.jpg" alt="Screenshot 2" width="300"/>
-<img src="/src/images/Login.jpg" alt="Screenshot 2" width="300"/>
-<img src="/src/images/signup.jpg" alt="Screenshot 2" width="300"/>
-<img src="/src/images/Todolist.jpg" alt="Screenshot 2" width="300"/>
-<img src="/src/images/addTodo.jpg" alt="Screenshot 2" width="300"/>
-<img src="/src/images/todolist2.jpg" alt="Screenshot 2" width="300"/>
-<img src="/src/images/EditTodo.jpg" alt="Screenshot 2" width="300"/>
+<img src="/src/images/Home.jpg" alt="Screenshot 2" width="200"/>
+<img src="/src/images/Login.jpg" alt="Screenshot 2" width="200"/>
+<img src="/src/images/signup.jpg" alt="Screenshot 2" width="200"/>
+<img src="/src/images/todoList.jpg" alt="Screenshot 2" width="200"/>
+<img src="/src/images/addTodo.jpg" alt="Screenshot 2" width="200"/>
+<img src="/src/images/todoList2.jpg" alt="Screenshot 2" width="200"/>
+<img src="/src/images/editTodo.jpg" alt="Screenshot 2" width="200"/>
